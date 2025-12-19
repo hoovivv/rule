@@ -1,0 +1,12 @@
+# 拦截补充列表(拦截广告和非必要链接使用)
+
+# MyList
+# 域名后缀匹配
+# DOMAIN-SUFFIX,hao123.com
+
+
+# 域名关键字匹配
+# DOMAIN-KEYWORD,baidu
+
+# IP段匹配
+# IP-CIDR,8.8.8.8/32,no-resolve
