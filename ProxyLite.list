@@ -25,6 +25,9 @@ DOMAIN-SUFFIX,0.openwrt.pool.ntp.org
 DOMAIN-SUFFIX,1.openwrt.pool.ntp.org
 DOMAIN-SUFFIX,2.openwrt.pool.ntp.org
 DOMAIN-SUFFIX,3.openwrt.pool.ntp.org
+DOMAIN-SUFFIX,support.broadcom.com
+DOMAIN-SUFFIX,access.broadcom.com
+DOMAIN-SUFFIX,www.broadcom.com
 
 
 # 域名关键字匹配
