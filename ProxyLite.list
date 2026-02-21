@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,1.openwrt.pool.ntp.org
 DOMAIN-SUFFIX,2.openwrt.pool.ntp.org
 DOMAIN-SUFFIX,3.openwrt.pool.ntp.org
 DOMAIN-SUFFIX,checkonline.home-assistant.io
+IP-CIDR,38.55.39.49,no-resolve
 
 
 

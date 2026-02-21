@@ -12,9 +12,10 @@ DOMAIN,bard.google.com
 DOMAIN,console.groq.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,gemini.google.com
-DOMAIN,generativelanguage.googleapis.com
 DOMAIN,notebooklm.google.com
 DOMAIN,sydney.bing.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,auth0.com
@@ -55,3 +56,4 @@ DOMAIN-SUFFIX,codex.ai
 DOMAIN-SUFFIX,google.ai
 DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,googleusercontent.com
